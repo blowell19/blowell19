@@ -1,7 +1,7 @@
 ## Hi! 👋
 #### I'm a college student at St. Lawrence University, where I study Statistics and Political Science. I'm interested in using my knowledge of data analysis to help enhance a potential career in government.
 
-#### In my free time, I enjoy playing baseball, skiing, traveling, listenig to music, and spending time with friends and family.
+#### In my free time, I enjoy playing baseball, skiing, traveling, listening to music, and spending time with friends and family.
 
 <!--
 **blowell19/blowell19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
